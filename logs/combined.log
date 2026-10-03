@@ -12,3 +12,5 @@
 {"level":"info","message":"Server is started on 8080 in development","service":"user-onboarding","timestamp":"2026-09-30 13:37:59"}
 {"level":"info","message":"MongoDb Connected ac-bmycagp-shard-00-00.iu84xii.mongodb.net","service":"user-onboarding","timestamp":"2026-09-30 13:38:11"}
 {"level":"info","message":"Server is started on 8080 in development","service":"user-onboarding","timestamp":"2026-09-30 13:38:11"}
+{"level":"info","message":"MongoDb Connected ac-bmycagp-shard-00-00.iu84xii.mongodb.net","service":"user-onboarding","timestamp":"2026-09-30 13:41:18"}
+{"level":"info","message":"Server is started on 8080 in development","service":"user-onboarding","timestamp":"2026-09-30 13:41:18"}
